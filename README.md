@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Dopaemin
+- 👀 I’m interested in Web/App Development, Digital Security and Cloud / Databases
+- 🌱 I’m currently learning Angular & Java
