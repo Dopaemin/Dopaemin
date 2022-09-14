@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Emin
 - 👀 I’m interested in Web/App Development, Digital Security and Cloud / Databases
-- 🌱 I’m currently learning Angular & Java
+- 🌱 I’m currently learning Swift & Java
